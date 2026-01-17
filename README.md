@@ -1,3 +1,7 @@
+Hussein Abdulle alasow 
+no:C1220501
+class:CA226
+
 # HimiloGuul — Project Specification
 
 > Short description: HimiloGuul allows sellers to list running businesses for sale and potential buyers to contact them. The entire site is PHP + MySQL-based and reads all contents from the database. ✅
